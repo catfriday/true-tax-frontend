@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       Hello World!
+      True Tax Prep
       <NavBar />
     </div>
   );
